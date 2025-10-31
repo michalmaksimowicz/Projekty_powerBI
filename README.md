@@ -8,7 +8,7 @@ This repository is a collection of Power BI dashboards I've developed. It tracks
 
 Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
 
-## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
+## 📉 Data Jobs Dashboard 1.0 (V1 - Comprehensive Exploration)
 
 This initial dashboard provides a comprehensive two-page exploration of the data job market, designed for job seekers. It features a high-level summary page and a detailed drill-through page for specific job titles, offering a broad look at market trends and compensation.
 
@@ -30,7 +30,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single-page experience. It's optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
 
-**Key Power BI Skills Utilized (demonstrating progression):**
+**Key Power BI Skills Utilized:**
 * 🎨 Advanced Dashboard Design (Single-Page UX & Optimization)
 * ⚙️ Complex Power Query Transformations
 * 🔗 Star Schema Data Modeling Principles
